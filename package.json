@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "Instant notification based on awesome Vue",
   "author": "Adhe Widianjaya <adwidianjaya@gmail.com>",
-  "private": true,
+  "private": false,
+  "main": "index.js",
   "scripts": {
     "dev": "node build/dev-server.js",
     "build": "node build/build.js",
