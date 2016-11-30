@@ -37,7 +37,7 @@ npm install --save vue-instant-nofication
 
 ``` javascript
 import Vue from 'vue'
-import VueInstantNotification from '../'
+import VueInstantNotification from 'vue-instant-notification'
 
 new Vue({
   el: '#app',
